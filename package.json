@@ -1,0 +1,22 @@
+{
+  "name": "aicoach",
+  "version": "1.0.0",
+  "description": "A program that compares performance of a human against template video.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkclauson003/aicoach.git"
+  },
+  "keywords": [
+    "posenet"
+  ],
+  "author": "Jacky Baltes <jacky.baltes@ntnu.edu.tw>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkclauson003/aicoach/issues"
+  },
+  "homepage": "https://github.com/dkclauson003/aicoach#readme"
+}
